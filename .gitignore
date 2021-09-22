@@ -1,4 +1,6 @@
 #Listado de archivos y carpetas ignoradas
+
+CImg/
 # Compiled source #
 ###################
 *.com

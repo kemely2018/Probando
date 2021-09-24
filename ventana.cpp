@@ -11,7 +11,7 @@ int main(){
 
     bg.draw_circle(w/2,h/2,100,bluegreen);
 
-    CImgDisplay dsp(w,h,"Hola",0);
+    CImgDisplay dsp(w,h,"Kemely",0);
     dsp.display(bg);
     getchar();
     return 0;
